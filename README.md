@@ -1,7 +1,7 @@
 # 🛡️ Battle Simulator - Assignment 1
 
 ## 📌 Student Information
-- **📝 Student Name:** Ale Pintado Munoz
+- **📝 Student Name:** QWxleCBQaW50YWRvIE11bm96 (Base64 encoded)  
 - **🆔 Student Number:** 301207313
 - **📚 Course:** COMP392 Advanced Graphics (SEC. 001) Winter 2025
 
@@ -39,15 +39,14 @@ I hope you find everything in order. Thanks! 😊
 
 ```bash
 📁 Battle Simulator
-├── 🗂️ src
-│   ├── 📝 Warrior.h / Warrior.cpp                 # Base class for all warriors
-│   ├── 📝 Soldier.h / Soldier.cpp                 # Soldier class
-│   ├── 📝 Queen.h / Queen.cpp                     # Queen class
-│   ├── 📝 Team.h / Team.cpp                       # Manages a team of warriors
-│   ├── 📝 BattleSimulator.h / BattleSimulator.cpp # Handles the game logic and grid management
-│   └── 📝 main.cpp                                # The main file where the program starts
-├── 📄 README.md                                   # This file
-└── 📁 Battle Simulator Precompiled                # Folder containing the precompiled executable
+├── 📝 Warrior.h / Warrior.cpp                 # Base class for all warriors
+├── 📝 Soldier.h / Soldier.cpp                 # Soldier class
+├── 📝 Queen.h / Queen.cpp                     # Queen class
+├── 📝 Team.h / Team.cpp                       # Manages a team of warriors
+├── 📝 BattleSimulator.h / BattleSimulator.cpp # Handles the game logic and grid management
+├── 📝 main.cpp                                # The main file where the program starts
+├── 📄 README.md                               # This file
+└── 📁 Battle Simulator Precompiled            # Folder containing the precompiled executable
 ```
 
 ---
