@@ -84,7 +84,7 @@ If you encounter any issues during compilation, a **precompiled executable** is 
 When running the executable by **double-clicking**, the console window may open and close immediately. To keep the window open and see the output, open a **CMD** or **terminal** in the directory where `BattleSimulator.exe` is located and **run it from there**:
 
 ```bash
-cd "D:\COMP392\Assignment 1"
+cd "D:\COMP392\Assignment 1\Battle Simulator Precompiled"
 BattleSimulator.exe
 ```
 
