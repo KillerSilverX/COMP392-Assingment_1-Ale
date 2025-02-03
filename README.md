@@ -83,6 +83,5 @@ BattleSimulator.exe
 
 ---
 
-## 🎉 Thank You!
-Thanks for reviewing my assignment! 😊
+## Thanks :)
 
