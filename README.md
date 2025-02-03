@@ -30,7 +30,7 @@ So, when a **Soldier attacks a Queen**, the calculation becomes:
 Conversely, when a **Queen attacks a Soldier**, the calculation would lower the damage accordingly.  
 This approach gives both attributes a **clear role in the combat mechanics**.
 
-I hope you find everything in order. Thanks! 😊
+I hope you find everything in order. Thanks :)
 
 ---
 
@@ -83,5 +83,5 @@ BattleSimulator.exe
 
 ---
 
-## Thanks :)
+# Thanks :)
 
