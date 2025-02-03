@@ -1,8 +1,8 @@
 # 🛡️ Battle Simulator - Assignment 1
 
 ## 📌 Student Information
-- **📝 Student Name:** A&zwnj;l&zwnj;e ███████  
-- **🆔 Student Number:** 301207313
+- **📝 Student Name:** A&zwnj;l&zwnj;e ██████████████
+- **🆔 Student Number:** ███████████
 - **📚 Course:** COMP392 Advanced Graphics (SEC. 001) Winter 2025
 
 ---
