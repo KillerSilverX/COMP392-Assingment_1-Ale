@@ -1,7 +1,5 @@
 # 🛡️ Battle Simulator - Assignment 1
 
-![Battle Simulator Banner](https://www.freepik.com/premium-vector/scoreboard-versus-team-vs-team-b-sport-lower-third-blue-team-fight-red-team-with-shield-3d_34571071.htm)
-
 ## 📌 Student Information
 - **📝 Student Name:** Ale Pintado Munoz
 - **🆔 Student Number:** 301207313
