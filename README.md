@@ -115,20 +115,10 @@ graph TD;
     D -->|End Condition Met| I[End Game];
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
 
-- Thanks to the course instructors for their guidance.
-- Inspired by [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for README enhancements.
 
----
-
-**Thank you for reviewing my assignment!** 😊
+**Thanks :)**
 
