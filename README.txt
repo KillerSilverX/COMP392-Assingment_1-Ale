@@ -1,4 +1,4 @@
-# Battle Simulator - Assignment 1
+# Battle Simulator - Assignment 1 #
 
 ## Student Information
 **Student Name**   : Ale Pintado Munoz  
