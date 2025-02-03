@@ -1,7 +1,7 @@
 # 🛡️ Battle Simulator - Assignment 1
 
 ## 📌 Student Information
-- **📝 Student Name:** QWxleCBQaW50YWRvIE11bm96 (Base64 encoded)  
+- **📝 Student Name:** <!-- Censurado --> ███████  
 - **🆔 Student Number:** 301207313
 - **📚 Course:** COMP392 Advanced Graphics (SEC. 001) Winter 2025
 
